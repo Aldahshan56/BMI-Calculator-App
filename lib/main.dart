@@ -1,5 +1,4 @@
 import 'package:app_2/screens/bmi_first_screen.dart';
-import 'package:app_2/first_screen.dart';
 import 'package:flutter/material.dart';
 void main(){
   runApp(const MyApp());

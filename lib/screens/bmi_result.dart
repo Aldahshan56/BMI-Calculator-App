@@ -1,4 +1,3 @@
-import 'package:app_2/screens/bmi_first_screen.dart';
 import 'package:app_2/widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 class Results extends StatelessWidget {
